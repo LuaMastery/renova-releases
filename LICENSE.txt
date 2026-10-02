@@ -1,0 +1,77 @@
+RENOVA — LICENÇA DE USO / END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Rhuan de Cillo Silva. Todos os direitos reservados. / All rights reserved.
+
+=====================================================================
+PORTUGUÊS
+=====================================================================
+
+O Renova ("Software") é um programa proprietário, criado e mantido por Rhuan de Cillo Silva ("Autor"). O Software é licenciado, não vendido. Esta NÃO é uma licença de código aberto.
+
+1. O QUE VOCÊ PODE FAZER
+   Instalar e usar o Software, gratuitamente, em seus computadores, para uso pessoal ou interno da sua empresa.
+   Fazer uma cópia de segurança do instalador para uso próprio.
+   Compartilhar o link oficial de download do Software com outras pessoas.
+
+2. O QUE VOCÊ NÃO PODE FAZER (sem autorização escrita do Autor)
+   a) Modificar, adaptar, traduzir ou criar obras derivadas do Software.
+   b) Descompilar, desmontar, extrair o código-fonte ou fazer engenharia reversa, exceto na medida em que a lei aplicável permita expressamente, apesar desta restrição.
+   c) Copiar, redistribuir, publicar, hospedar, vender, alugar, sublicenciar ou disponibilizar o Software, ou qualquer parte dele, em qualquer site, loja de aplicativos ou meio, seja o original ou uma versão modificada. Isso inclui reempacotar o instalador.
+   d) Remover ou alterar avisos de direitos autorais, o nome do Autor ou os créditos.
+   e) Usar o nome "Renova", o ícone ou a identidade visual para identificar outro produto.
+   f) Remover ou contornar as verificações de segurança e de assinatura das atualizações do Software.
+
+3. PROPRIEDADE
+   O Autor mantém todos os direitos sobre o Software, incluindo código, textos, traduções, ícones e design. Nenhum direito é concedido além dos descritos expressamente nesta licença.
+
+4. COMPONENTES DE TERCEIROS
+   O Software inclui componentes de terceiros (por exemplo, Electron, Chromium, Node.js e bibliotecas de código aberto), que continuam sob as suas próprias licenças. Os avisos dessas licenças acompanham o Software (veja os arquivos LICENSE e LICENSES.chromium.html na pasta de instalação). Esta licença não altera os direitos que essas licenças dão a você sobre esses componentes.
+
+5. ISENÇÃO DE GARANTIA
+   O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA. Atualizar programas e drivers pode causar problemas no computador. O Software cria pontos de restauração e pede a sua confirmação em ações sensíveis, mas você é responsável por revisar o que instala. O modo administrador, quando ativado por você, é por sua conta e risco.
+
+6. LIMITAÇÃO DE RESPONSABILIDADE
+   Na máxima extensão permitida por lei, o Autor não responde por perdas ou danos (inclusive perda de dados ou falha de sistema) decorrentes do uso do Software.
+
+7. ENCERRAMENTO
+   Esta licença termina automaticamente se você violar qualquer um dos seus termos. Nesse caso, você deve parar de usar o Software e apagar as cópias.
+
+8. LEI APLICÁVEL
+   Esta licença é regida pelas leis da República Federativa do Brasil.
+
+=====================================================================
+ENGLISH
+=====================================================================
+
+Renova (the "Software") is proprietary software created and maintained by Rhuan de Cillo Silva (the "Author"). The Software is licensed, not sold. This is NOT an open-source license.
+
+1. WHAT YOU MAY DO
+   Install and use the Software free of charge on your computers, for personal use or your company's internal use.
+   Make a backup copy of the installer for your own use.
+   Share the official download link of the Software with other people.
+
+2. WHAT YOU MAY NOT DO (without the Author's written permission)
+   a) Modify, adapt, translate or create derivative works of the Software.
+   b) Decompile, disassemble, extract the source code or reverse engineer the Software, except to the extent applicable law expressly permits despite this restriction.
+   c) Copy, redistribute, publish, host, sell, rent, sublicense or make available the Software, or any part of it, on any website, app store or other medium, whether original or modified. This includes repackaging the installer.
+   d) Remove or alter copyright notices, the Author's name or the credits.
+   e) Use the name "Renova", the icon or the visual identity to identify another product.
+   f) Remove or bypass the Software's security and update-signature checks.
+
+3. OWNERSHIP
+   The Author keeps all rights in the Software, including code, text, translations, icons and design. No rights are granted other than those expressly described in this license.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes third-party components (for example Electron, Chromium, Node.js and open-source libraries) that remain under their own licenses. Those license notices ship with the Software (see the LICENSE and LICENSES.chromium.html files in the installation folder). This license does not change the rights those licenses give you over those components.
+
+5. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Updating programs and drivers may cause problems on your computer. The Software creates restore points and asks for your confirmation on sensitive actions, but you are responsible for reviewing what you install. Administrator mode, when you turn it on, is at your own risk.
+
+6. LIMITATION OF LIABILITY
+   To the maximum extent permitted by law, the Author is not liable for any loss or damage (including data loss or system failure) arising from use of the Software.
+
+7. TERMINATION
+   This license ends automatically if you breach any of its terms. You must then stop using the Software and delete all copies.
+
+8. GOVERNING LAW
+   This license is governed by the laws of the Federative Republic of Brazil.
